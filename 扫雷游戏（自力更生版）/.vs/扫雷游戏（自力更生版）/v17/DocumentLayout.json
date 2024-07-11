@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEB4575-2F47-4DF0-A7E3-B48B275BB8AE}|\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09.vcxproj|D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EEB4575-2F47-4DF0-A7E3-B48B275BB8AE}|\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09.vcxproj|solutionrelative:\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEB4575-2F47-4DF0-A7E3-B48B275BB8AE}|\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09.vcxproj|D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EEB4575-2F47-4DF0-A7E3-B48B275BB8AE}|\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09.vcxproj|solutionrelative:\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEB4575-2F47-4DF0-A7E3-B48B275BB8AE}|\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09.vcxproj|D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EEB4575-2F47-4DF0-A7E3-B48B275BB8AE}|\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09.vcxproj|solutionrelative:\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.c",
+              "RelativeDocumentMoniker": "\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.c",
+              "ToolTip": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.c",
+              "RelativeToolTip": "\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.c",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAQwLsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-08T10:50:34.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.h",
+              "ToolTip": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.h",
+              "RelativeToolTip": "\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\game.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T10:50:42.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\test.c",
+              "RelativeDocumentMoniker": "\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\test.c",
+              "ToolTip": "D:\\aim for more,find more and learn more\\C\u8BED\u8A00\\C\u8BED\u8A00\u7A0B\u5E8F\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\test.c",
+              "RelativeToolTip": "\u626B\u96F7\u6E38\u620F\uFF08\u81EA\u529B\u66F4\u751F\u7248\uFF09\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-08T10:50:25.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
